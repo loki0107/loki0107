@@ -30,9 +30,10 @@
 <div align="center">
 
 ```
-$ cat status.log
-> stars aren't the metric — shipped code is.
-> tracking commits, not clout.
+$ ./init.sh
+[OK] loading commits...
+[OK] loading curiosity...
+[SKIP] loading github rank... (deprecated metric)
 ```
 
 </div>
