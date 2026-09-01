@@ -27,7 +27,15 @@
 
 </div>
 
-> **Why `hide_rank=true`?** GitHub's rank is weighted by stars on your repos — a metric that favours popular open-source projects over real engineering skill. For a newer account doing meaningful work, the rank label is more misleading than useful, so it's hidden.
+<div align="center">
+
+```
+$ cat status.log
+> stars aren't the metric — shipped code is.
+> tracking commits, not clout.
+```
+
+</div>
 
 <br/>
 
