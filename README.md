@@ -22,8 +22,8 @@
   <br/>
 
   <!-- Stats + Top Langs side by side -->
-  <img src="https://loki0107.vercel.app/api?username=loki0107&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" width="49%" alt="github stats"/>
-  <img src="https://loki0107.vercel.app/api/top-langs/?username=loki0107&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loki0107&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loki0107&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css" width="49%" alt="top languages"/>
 
 </div>
 
