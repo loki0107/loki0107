@@ -17,13 +17,13 @@
 <div align="center">
 
   <!-- Streak card — full width -->
-  <img src="https://streak-stats.demolab.com?user=logesh-balaji&theme=github-dark-dimmed&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=loki0107&theme=github-dark-dimmed&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" alt="streak stats"/>
 
   <br/>
 
   <!-- Stats + Top Langs side by side -->
-  <img src="https://loki0107.vercel.app/api?username=logesh-balaji&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" width="49%" alt="github stats"/>
-  <img src="https://loki0107.vercel.app/api/top-langs/?username=logesh-balaji&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="top languages"/>
+  <img src="https://loki0107.vercel.app/api?username=loki0107&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" width="49%" alt="github stats"/>
+  <img src="https://loki0107.vercel.app/api/top-langs/?username=loki0107&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="top languages"/>
 
 </div>
 
@@ -36,10 +36,10 @@
 <!-- The output branch won't exist before that, and the image will 404. -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/logesh-balaji/logesh-balaji/output/github-contribution-grid-snake-dark.svg">
+          srcset="https://raw.githubusercontent.com/loki0107/loki0107/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/logesh-balaji/logesh-balaji/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/logesh-balaji/logesh-balaji/output/github-contribution-grid-snake.svg" width="100%">
+          srcset="https://raw.githubusercontent.com/loki0107/loki0107/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/loki0107/loki0107/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <br/>
